@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="Part1.SeleniumTest" time="2.336" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.5+9-LTS-191"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Josue\Documents\NetBeansProjects\mavenproject4"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GT"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="test" value="Part1.SeleniumTest"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Josue\Documents\NetBeansProjects\mavenproject4"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.5+9-LTS-191"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Josue\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-14\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\NetBeans-14\netbeans\java\maven\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Common Files\Acronis\VirtualFile\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile64\;C:\Program Files (x86)\Common Files\Acronis\FileProtector\;C:\Program Files (x86)\Common Files\Acronis\FileProtector64\;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Users\Josue\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\cloudflared\.;C:\Users\Josue\AppData\Local\Android\Sdk\platforms;C:\Users\Josue\AppData\Local\Android\Sdk\platform-tools;C:\Users\Josue\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\nodejs\;C:\Ruby30\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Josue\AppData\Local\Microsoft\WindowsApps;C:\Users\Josue\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.3\bin;C:\Users\Josue\.dotnet\tools;C:\Users\Josue\AppData\Local\Tesseract-OCR;C:\Users\Josue\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\Josue\AppData\Roaming\npm;C:\Users\Josue\AppData\Local\Programs\Azure Dev CLI\;."/>
+    <property name="maven.conf" value="C:\Program Files\NetBeans-14\netbeans\java\maven/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\NetBeans-14\netbeans\java\maven\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Josue"/>
+    <property name="user.timezone" value="America/Guatemala"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="Josue"/>
+    <property name="java.class.path" value="C:\Program Files\NetBeans-14\netbeans\java\maven\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=Part1.SeleniumTest -Dmaven.ext.class.path=C:\Program Files\NetBeans-14\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 surefire:test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.5"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.5"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\NetBeans-14\netbeans\java\maven"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Part1.SeleniumTest" name="testLogin" time="2.336"/>
+</testsuite>

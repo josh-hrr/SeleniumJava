@@ -20,3 +20,10 @@ jobs:
           mvn test
         env:
           MAVEN_OPTS: '-Dmaven.repo.local=./.m2/repository'
+          
+      - name: upload report
+        if: always()
+        uses: actions/upload-artifacts@v3
+        with:
+            name: extent-report
+            path: extent.html

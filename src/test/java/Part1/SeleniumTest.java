@@ -42,7 +42,7 @@ public class SeleniumTest {
     public void setUp() { 
         //Driver setup
         ChromeOptions options = new ChromeOptions();
-        //options.addArguments("--headless=new");
+        options.addArguments("--headless=new");
         
         /*
         Map<String, Object> prefs = new HashMap<>();
